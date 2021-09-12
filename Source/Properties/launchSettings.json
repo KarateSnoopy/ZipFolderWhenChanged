@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ZipFolderWhenChanged": {
+      "commandName": "Project",
+      "commandLineArgs": "3 \"C:\\Users\\ninja\\AppData\\LocalLow\\Freehold Games\\CavesOfQud\\Saves\\c5271ec1-2259-44a3-95b3-82f77be04b7d\""
+    }
+  }
+}
